@@ -53,3 +53,11 @@ img {
 a img:hover {
 	border-color: #595959
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
